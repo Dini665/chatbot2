@@ -1,0 +1,76 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "université": "Paris Sciences et Lettres (PSL)",
+      "question": "Quels sont les domaines d'excellence de l'Université PSL ?",
+      "reponse": "L'Université PSL se distingue par son excellence dans les sciences, les arts et les sciences humaines et sociales. Elle favorise une approche interdisciplinaire, encourageant les collaborations entre ses établissements membres. Les domaines de recherche de pointe incluent la physique quantique, les sciences de la vie, les humanités numériques et les arts créatifs."
+    },
+    {
+      "id": 2,
+      "université": "Paris Sciences et Lettres (PSL)",
+      "question": "Quel est le taux d'accueil des étudiants par parcours ou formation ?",
+      "reponse": "PSL est extrêmement sélective, avec des taux d'admission généralement bas, variant selon les programmes. Les formations de master et de doctorat sont particulièrement compétitives, attirant des étudiants du monde entier."
+    },
+    {
+      "id": 3,
+      "université": "Paris Sciences et Lettres (PSL)",
+      "question": "Quelles sont les modalités d'examen de dossier de candidature ?",
+      "reponse": "Les admissions se font sur dossier, avec une évaluation rigoureuse de l'excellence académique, des lettres de recommandation et des projets de recherche. Un entretien peut également être requis."
+    },
+    {
+      "id": 4,
+      "université": "Paris Sciences et Lettres (PSL)",
+      "question": "Quelles sont les offres de bourse disponibles ?",
+      "reponse": "PSL et ses établissements membres offrent de nombreuses bourses d'excellence, des aides à la mobilité internationale et des financements de recherche, soutenus par des partenariats avec des fondations et des entreprises."
+    },
+    {
+      "id": 5,
+      "université": "Paris Sciences et Lettres (PSL)",
+      "question": "Comment PSL accompagne-t-elle la réussite professionnelle de ses étudiants ?",
+      "reponse": "PSL dispose d'un réseau d'anciens prestigieux, de services d'orientation professionnelle, de stages en entreprise et de programmes d'incubation pour les projets entrepreneuriaux."
+    },
+    {
+      "id": 6,
+      "université": "Paris Sciences et Lettres (PSL)",
+      "question": "Quels établissements sont abordés dans ce chatbot ?",
+      "reponse": "Ce chatbot vous fournit des informations détaillées sur les cinq meilleures universités françaises : Paris Sciences et Lettres (PSL), Institut Polytechnique de Paris, Sorbonne Université, Université Paris-Saclay et l'École Normale Supérieure de Lyon."
+    },
+    {
+      "id": 7,
+      "université": "Institut Polytechnique de Paris",
+      "question": "Quels sont les domaines d'excellence de l'Institut Polytechnique de Paris ?",
+      "reponse": "L'Institut se concentre sur les sciences et technologies, avec une forte expertise en mathématiques appliquées, physique, informatique, et ingénierie. La recherche de pointe et les partenariats industriels sont au cœur de son approche."
+    },
+    {
+      "id": 8,
+      "université": "Institut Polytechnique de Paris",
+      "question": "Quelles sont les formations proposées ?",
+      "reponse": "L'Institut propose des formations d'ingénieurs, des masters spécialisés et des doctorats, avec des programmes axés sur l'innovation, la recherche et le leadership."
+    },
+    {
+      "id": 9,
+      "université": "Institut Polytechnique de Paris",
+      "question": "Comment se déroulent les admissions ?",
+      "reponse": "Les admissions sont très sélectives, avec des concours d'entrée exigeants, des évaluations de dossiers et des entretiens."
+    },
+    {
+      "id": 10,
+      "université": "Institut Polytechnique de Paris",
+      "question": "Quelles sont les opportunités pour les étudiants étrangers ?",
+      "reponse": "L'Institut a une forte ouverture internationale, avec des partenariats avec des universités du monde entier, des programmes d'échange et des bourses pour les étudiants internationaux."
+    },
+    {
+      "id": 11,
+      "université": "Institut Polytechnique de Paris",
+      "question": "Quel est le réseau d'alumni de l'Institut ?",
+      "reponse": "Le réseau d'alumni est influent, avec des diplômés occupant des postes de leadership dans l'industrie, la recherche et la finance."
+    },
+    {
+      "id": 12,
+      "université": "Institut Polytechnique de Paris",
+      "question": "Quels établissements sont abordés dans ce chatbot ?",
+      "reponse": "Ce chatbot vous fournit des informations détaillées sur les cinq meilleures universités françaises : Paris Sciences et Lettres (PSL), Institut Polytechnique de Paris, Sorbonne Université, Université Paris-Saclay et l'École Normale Supérieure de Lyon."
+    }
+  ]
+}
